@@ -9,5 +9,6 @@
 <body>
 	<h2>${msg }</h2>
 	<h2>깃헙 add</h2>
+	<h3>cicd test 커밋</h3>
 </body>
 </html>
